@@ -10,7 +10,7 @@ I'm currently a frontend developer on Erzinger!
 You can find me on:
 
 [Behance](https://www.behance.net/brunolanger2)
-[LinkedIn](www.linkedin.com/in/brunojlanger)
+[LinkedIn](https://www.linkedin.com/in/brunojlanger/)
 
 <!--
 **bruno-langer/bruno-langer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
