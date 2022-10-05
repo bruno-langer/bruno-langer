@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a frontend developer on Erzinger!
+I'm currently a frontend developer at Erzinger!
 
 - I work with React, Styled-Components, Figma, Docker and Electron sometimes:man_technologist:	
 - Owner and developer of [Bingando](https://www.bingando.com.br/), an "Bingo" plataform made with React and Firebase :game_die:
