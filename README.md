@@ -4,6 +4,7 @@ I'm currently a developer at Erzinger!
 
 - I work with React, Styled-Components, Figma, Docker and Electron sometimes:man_technologist:	
 - Developer of [Bingando](https://www.bingando.com.br/), a tool for Bingo, to facilitate the marking of the game.
+- Now making the [Encheu Aí](https://encheu-ai.vercel.app/), a plataform for floods monitor
 
 ---
 
