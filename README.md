@@ -1,29 +1,49 @@
-### Hi there 👋
+### 👋 Hi there! I'm Bruno Langer
 
-I'm currently a developer at Erzinger!
-
-- I work with React, Styled-Components, Figma, Docker and Electron sometimes:man_technologist:	
-- Developer of [Bingando](https://bingando-web.vercel.app/), a tool for Bingo, to facilitate the marking of the game.
-- Now making the [Encheu Aí](https://encheu-ai.vercel.app/), a plataform for floods monitor
+🔧 Frontend Developer focused on **React, TypeScript, UX/UI, and IoT**.  
+🚀 Passionate about building intuitive user experiences and smart interfaces for both industrial and everyday applications.
 
 ---
 
-You can find me on:
+### 🧠 About Me
 
-[Behance](https://www.behance.net/brunolanger2)
-[LinkedIn](https://www.linkedin.com/in/brunojlanger/)
+I'm a tech enthusiast who loves turning complex ideas into practical, beautiful software.  
+With a background in electrical engineering and full-stack development, I create digital solutions that connect **design, usability, and real-time data**.
 
-<!--
-**bruno-langer/bruno-langer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy bridging the gap between **industrial systems and user-friendly interfaces**, often exploring tools like MQTT, OPC-UA, and Electron to bring hardware and software together.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Chakra UI, Styled Components  
+- **Backend:** Node.js, Express, MongoDB  
+- **Others:** Electron, MQTT, OPC-UA, Figma, Konva.js  
+- **DevOps:** Railway, Vercel, GitHub Actions, Docker
+
+---
+
+### 🚀 Featured Projects
+
+- [**Wiki Mestre**](https://github.com/bruno-langer/wiki-mestre) – A Portuguese implementation of the Game Wiki Race, make with React and Tailwind  
+- [**Timezone Buddy**](https://github.com/bruno-langer/timezone-buddy) – A browser extension to compare time zones and find the best time to meet.  
+- [**Bingando**](http://bingando-web.vercel.app/) – A browser bingo tool marker with real time data using Firebase.  
+
+---
+
+### 📫 Find Me Here
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunolanger/)  
+✉️ brunojoselanger@gmail.com  
+📍 Joinville, SC – Brazil
+
+---
+
+### ✨ Fun Facts
+
+- 🎨 I love exploring design beyond code — from UI/UX concepts to visual identities and apparel.  
+- 🖌️ You can check out some of my design work on [Behance](https://www.behance.net/brunolanger2)  
+
+---
+
+Thanks for stopping by! 🚀
