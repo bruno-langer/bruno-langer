@@ -25,6 +25,7 @@ I enjoy bridging the gap between **industrial systems and user-friendly interfac
 
 ### 🚀 Featured Projects
 
+- [**Noisy Road**](https://github.com/bruno-langer/noisy-road) – A audio analysis experience of the recordings from a busy road.
 - [**Wiki Mestre**](https://github.com/bruno-langer/wiki-mestre) – A Portuguese implementation of the Game Wiki Race, make with React and Tailwind  
 - [**Timezone Buddy**](https://github.com/bruno-langer/timezone-buddy) – A browser extension to compare time zones and find the best time to meet.  
 - [**Bingando**](http://bingando-web.vercel.app/) – A browser bingo tool marker with real time data using Firebase.  
