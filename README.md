@@ -1,50 +1,16 @@
-### 👋 Hi there! I'm Bruno Langer
+Frontend Developer — React, TypeScript, UX/UI, IoT
 
-🔧 Frontend Developer focused on **React, TypeScript, UX/UI, and IoT**.  
-🚀 Passionate about building intuitive user experiences and smart interfaces for both industrial and everyday applications.
+I build intuitive interfaces that connect design, usability, and real-time industrial data. Background in Electrical Engineering and full-stack development, focused on bridging hardware, software, and user experience.
 
----
+**Stack:** React · TypeScript · Next.js · Tailwind · Node.js · Electron · MQTT · OPC-UA · Figma
 
-### 🧠 About Me
+**Projects**
 
-I'm a tech enthusiast who loves turning complex ideas into practical, beautiful software.  
-With a background in electrical engineering and full-stack development, I create digital solutions that connect **design, usability, and real-time data**.
+* **Noisy Road** – Audio analysis from real road recordings
+* **Wiki Mestre** – Wiki Race game in Portuguese (React + Tailwind)
+* **Timezone Buddy** – Timezone comparison browser extension
+* **Bingando** – Real-time browser bingo tool using Firebase
 
-I enjoy bridging the gap between **industrial systems and user-friendly interfaces**, often exploring tools like MQTT, OPC-UA, and Electron to bring hardware and software together.
-
----
-
-### 🛠️ Tech Stack
-
-- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Chakra UI, Styled Components  
-- **Backend:** Node.js, Express, MongoDB  
-- **Others:** Electron, MQTT, OPC-UA, Figma, Konva.js  
-- **DevOps:** Railway, Vercel, GitHub Actions, Docker
-
----
-
-### 🚀 Featured Projects
-
-- [**Noisy Road**](https://github.com/bruno-langer/noisy-road) – A audio analysis experience of the recordings from a busy road.
-- [**Wiki Mestre**](https://github.com/bruno-langer/wiki-mestre) – A Portuguese implementation of the Game Wiki Race, make with React and Tailwind  
-- [**Timezone Buddy**](https://github.com/bruno-langer/timezone-buddy) – A browser extension to compare time zones and find the best time to meet.  
-- [**Bingando**](http://bingando-web.vercel.app/) – A browser bingo tool marker with real time data using Firebase.  
-
----
-
-### 📫 Find Me Here
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunolanger/)  
-✉️ brunojoselanger@gmail.com  
-📍 Joinville, SC – Brazil
-
----
-
-### ✨ Fun Facts
-
-- 🎨 I love exploring design beyond code — from UI/UX concepts to visual identities and apparel.  
-- 🖌️ You can check out some of my design work on [Behance](https://www.behance.net/brunolanger2)  
-
----
-
-Thanks for stopping by! 🚀
+**Links**
+LinkedIn: [linkedin.com/in/brunolanger](linkedin.com/in/brunolanger)
+Email: [brunojoselanger@gmail.com](mailto:brunojoselanger@gmail.com)
